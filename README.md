@@ -10,15 +10,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anirban-banerjee-b42b9907p/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AnirbanBCA)
 
-- 🌱 I’m currently learning **Python, Cyber Security, AI/ML**
+- 🌱 I’m currently learning **JAVA,MERN FULLSTACK**
 
-- 🤝 I’m looking for help with **AI/ML**
+- 🤝 I’m looking for help with **MERN FULL STACK**
 
 - 💬 Ask me about **LotL**
 
-- 📫 How to reach me **banerjeeanirban666@gmail.com**
+- 📫 How to reach me **zamindarsubhajit@gmail.com**
 
-- 😀 Fun fact **My first "hello world" crashed my laptop.**
+- 😀 Fun fact **My first "hello world" crashed my carrier.**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,7 +28,7 @@
     <th>PROGRAMMING LANGUAGE</th>
     <th>FRONTEND DEVELOPMENT</th>
     <th>BACKEND DEVELOPMENT</th>
-    <th>AI / ML</th>
+    <th>DATABASE</th>
     <th>DATABASE</th>
     <th>DEVOPS</th>
     <th>BAAS</th>
