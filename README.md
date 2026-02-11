@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=23F729&center=true&width=435&lines=MERN+Developer;Passionate+in+Programming;JAVA+Web+Development)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Anirban Banerjee</h1>
+<h1 align="center">Hi 👋, I'm Subhajit zamindar</h1>
 <h3 align="center">A passionate web application from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirbanbanerjee07&label=Profile%20views&color=0e75b6&style=flat" alt="anirbanbanerjee07" /> </p>
