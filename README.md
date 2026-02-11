@@ -1,6 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=23F729&center=true&width=435&lines=MERN+Developer;Passionate+in+Programming;JAVA+Web+Development" alt="Typing SVG" /></a>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=25&duration=4000&pause=1000&color=32F129&center=true&vCenter=true&width=329&lines=Full+Stack+Python+Developer;Cyber+Security+Enthusiast;Graphics+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=23F729&center=true&width=435&lines=MERN+Developer;Passionate+in+Programming;JAVA+Web+Development)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Anirban Banerjee</h1>
 <h3 align="center">A passionate web application from India</h3>
