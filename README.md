@@ -55,11 +55,7 @@
 </a>
 </td>
 
-<td>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
-</a>
-</td>
+<td> — </td>   <!-- Bash removed -->
 </tr>
 
 <tr>
