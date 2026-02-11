@@ -6,9 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirbanbanerjee07&label=Profile%20views&color=0e75b6&style=flat" alt="anirbanbanerjee07" /> </p>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/w66rNGVm) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anirban-banerjee-b42b9907p/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AnirbanBCA)
 
 - 🌱 I’m currently learning **JAVA,MERN FULLSTACK**
 
@@ -30,10 +28,8 @@
     <th>BACKEND DEVELOPMENT</th>
     <th>DATABASE</th>
     <th>DATABASE</th>
-    <th>DEVOPS</th>
     <th>BAAS</th>
     <th>SOFTWARE</th>
-    <th>GAME ENGINE</th>
     <th>OTHERS</th>
   </tr>
   <tr>
@@ -57,25 +53,8 @@
     <td><a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a></td
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
