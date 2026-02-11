@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9D%93%9F%F0%9D%93%AA%F0%9D%93%BC%F0%9D%93%BC%F0%9D%93%B2%F0%9D%93%B8%F0%9D%93%B7%F0%9D%93%AA%F0%9D%93%BD%F0%9D%93%AE+%F0%9D%94%80%F0%9D%93%B2%F0%9D%93%BD%F0%9D%93%B1+%F0%9D%93%AC%F0%9D%93%B8%F0%9D%93%AD%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25F51D&width=435&lines=%F0%9D%93%9F%F0%9D%93%AA%F0%9D%93%BC%F0%9D%93%BC%F0%9D%93%B2%F0%9D%93%B8%F0%9D%93%B7%F0%9D%93%AA%F0%9D%93%BD%F0%9D%93%AE+%F0%9D%94%80%F0%9D%93%B2%F0%9D%93%BD%F0%9D%93%B1+%F0%9D%93%AC%F0%9D%93%B8%F0%9D%93%AD%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%B0)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Subhajit zamindar</h1>
 <h3 align="center">A passionate web application from India</h3>
