@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Subhajit zamindar</h1>
 <h3 align="center">A passionate web application from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirbanbanerjee07&label=Profile%20views&color=0e75b6&style=flat" alt="anirbanbanerjee07" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirbanbanerjee07&label=Profile%20views&color=0e75b6&style=flat" alt="anirbanbanerjee07" /> </p> -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajit-zamindar-2218932a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/) 
