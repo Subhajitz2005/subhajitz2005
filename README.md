@@ -6,7 +6,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Subhajitz2005&label=Profile%20views&color=0e75b6&style=flat" alt="Subhajitz2005" /> </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajit-zamindar-2218932a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajit-zamindar-2218932a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
 
 - 🌱 I’m currently learning **JAVA,MERN FULLSTACK**
 
