@@ -86,10 +86,6 @@
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </a>
-<br>
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
-</a>
 </td>
 </tr>
 
@@ -114,13 +110,14 @@
 </a>
 </td>
 
-<td> — </td>
+<td>
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
+</a>
+</td>
 </tr>
 
 </table>
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Subhajitz2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Subhajitz2005&theme=dark&hide_border=false)<br/>
