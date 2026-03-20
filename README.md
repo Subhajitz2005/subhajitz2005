@@ -18,7 +18,6 @@
 
 - 😀 Fun fact **My first "hello world" crashed my carrier.**
 
-
 <h3 align="left">Languages and Tools:</h3>
 
 <table border="1" cellpadding="10">
@@ -47,6 +46,10 @@
 <a href="https://nodejs.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 </a>
+
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+</a>
 </td>
 
 <td>
@@ -55,7 +58,7 @@
 </a>
 </td>
 
-<td> — </td>   <!-- Bash removed -->
+<td> — </td>
 </tr>
 
 <tr>
@@ -82,6 +85,10 @@
 <td>
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
 </a>
 </td>
 </tr>
