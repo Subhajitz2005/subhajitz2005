@@ -86,7 +86,9 @@
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </a>
+</td>
 
+<td>
 <a href="https://www.figma.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
 </a>
