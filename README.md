@@ -29,6 +29,7 @@
 <th>TOOLS / BAAS</th>
 </tr>
 
+<!-- Row 1 -->
 <tr>
 <td>
 <a href="https://www.cprogramming.com/" target="_blank">
@@ -46,10 +47,6 @@
 <a href="https://nodejs.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 </a>
-
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-</a>
 </td>
 
 <td>
@@ -61,6 +58,7 @@
 <td> — </td>
 </tr>
 
+<!-- Row 2 -->
 <tr>
 <td>
 <a href="https://www.java.com" target="_blank">
@@ -74,7 +72,11 @@
 </a>
 </td>
 
-<td> — </td>
+<td>
+<a href="https://tomcat.apache.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" width="40"/>
+</a>
+</td>
 
 <td>
 <a href="https://www.mysql.com/" target="_blank">
@@ -89,6 +91,7 @@
 </td>
 </tr>
 
+<!-- Row 3 -->
 <tr>
 <td>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -102,7 +105,11 @@
 </a>
 </td>
 
-<td> — </td>
+<td>
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+</a>
+</td>
 
 <td>
 <a href="https://www.oracle.com/" target="_blank">
