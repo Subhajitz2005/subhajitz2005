@@ -127,9 +127,18 @@
 </table>
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Subhajitz2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Subhajitz2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajitz2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhajitz2005&theme=tokyonight&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Subhajitz2005&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajitz2005&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 
 
