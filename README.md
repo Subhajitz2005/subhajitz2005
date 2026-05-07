@@ -130,16 +130,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Subhajitz2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Subhajitz2005&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajitz2005&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Subhajitz2005&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajitz2005&layout=compact&theme=tokyonight&hide_border=true" width="37%" />
 
 </div>
 
+<div align="center">
 
+<img src="https://nirzak-streak-stats.vercel.app/?user=Subhajitz2005&theme=tokyonight&hide_border=true" width="60%" />
 
-
-
-
+</div>
